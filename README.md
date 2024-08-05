@@ -1,1 +1,1 @@
-# NPM-Library
+# NPM Library
