@@ -1,1 +1,1 @@
-# NPM Library
+# nh-currency-converter
