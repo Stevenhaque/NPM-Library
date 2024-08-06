@@ -1,2 +1,2 @@
 # nh-currency-converter
-A npm package
+A npm package.
